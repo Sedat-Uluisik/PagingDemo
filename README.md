@@ -1,6 +1,6 @@
 ### Paging3 Demo
 
-√ Pahing3 <br/>
+√ Paging3 <br/>
 √ Retrofit <br/>
 √ MVVM <br/>
 √ Room <br/>
